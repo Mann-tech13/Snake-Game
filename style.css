@@ -1,0 +1,9 @@
+body{
+  background-color: rgb(74, 148, 207);
+}
+#score{
+  border: 1px solid;
+  padding: 1rem 1rem;
+  height: 2vh;
+  width: 8%;
+}
